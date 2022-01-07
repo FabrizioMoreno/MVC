@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pizarron</string>
+    <string-array name="Tipo">
+        <item>Digital</item>
+        <item>Para gis</item>
+        <item>Para plumon</item>
+    </string-array>
+    <string-array name="Colores">
+        <item>Blanco</item>
+        <item>Verde</item>
+        <item>Negro</item>
+        <item>Gris</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
