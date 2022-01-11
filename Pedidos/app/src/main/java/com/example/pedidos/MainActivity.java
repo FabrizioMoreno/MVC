@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.ver_pedido);
 /*
-Git hub
+Git hub a perro
         recyclerView = findViewById(R.id.recyclerViewRP);
         recyclerView.setLayoutManager(new LinearLayoutManager(MainActivity.this));
 
